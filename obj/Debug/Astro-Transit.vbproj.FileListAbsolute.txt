@@ -1,0 +1,14 @@
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\Astro-Transit.vbproj.GenerateResource.cache
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\Astro-Transit.vbproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\WindowsApp1.frmPlanetsinRasi.resources
+C:\Users\win\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\win\source\repos\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\win\source\repos\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\win\source\repos\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\win\source\repos\WindowsApp1\bin\Debug\astrodiamondDll.dll
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\Astro-Transit.vbproj.CopyComplete
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\win\source\repos\WindowsApp1\obj\Debug\Astro-Transit.vbproj.AssemblyReference.cache
